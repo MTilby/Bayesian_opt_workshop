@@ -1,0 +1,55 @@
+Licensing
+
+Original code and teaching text are provided under the MIT License.
+This license grant excludes all datasets. Third-party datasets retain their
+source terms, listed separately below.
+
+MIT License
+
+Copyright (c) 2026 ReactWise Technologies Ltd and Dr Michael Tilby
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Third-party dataset notices
+
+The following upstream distributions use the MIT License (text above), with
+their respective copyright notices:
+
+Olympus distribution (datasets A1 and B4):
+https://github.com/the-matter-lab/olympus
+Copyright (c) 2020 Aspuru-Guzik group repo
+
+Summit distribution (datasets B1-B3):
+https://github.com/sustainable-processes/summit
+Copyright 2020 Kobi Felton, Jan Rittig, Alexei Lapkin
+
+EDBO distribution (dataset D1):
+https://github.com/b-shields/edbo
+Copyright (c) 2020 Benjamin J. Shields
+
+E1 and E2: Kershaw et al., Chemical Engineering Journal 451 (2023), 138443.
+Copyright 2022 The Author(s). CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+Source: https://doi.org/10.1016/j.cej.2022.138443
+Numerical tables reformatted as CSVs, with renamed columns and Pareto annotations.
+
+C1: Cook, Clément, and Newman, Nature Protocols 16 (2021), 1152-1169.
+Source: https://doi.org/10.1038/s41596-020-00452-7
+
+Source details and transformations are listed in data/README.md.
