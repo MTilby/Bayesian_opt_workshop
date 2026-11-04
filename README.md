@@ -1,7 +1,7 @@
 # Bayesian Reaction Optimization
 
 <p align="center">
-  <img src="assets/Abstract.png" alt="Init" width="600" />
+  <img src="assets/Abstract.png" alt="Init" width="400" />
 </p>
 
 ***
