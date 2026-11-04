@@ -1,6 +1,9 @@
-# Bayesian Reaction Pptimization
+# Bayesian Reaction Optimization
 
-![Init](assets/Abstract.png)
+<p align="center">
+  <img src="assets/Abstract.png" alt="Init" width="600" />
+</p>
+
 ***
 
 Interactive Python notebooks introducing Bayesian optimization (BO) for chemistry. Explore published reaction datasets and compare optimization strategies against fitted surrogate experiments (“oracles”).
